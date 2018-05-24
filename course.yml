@@ -3,7 +3,7 @@ description: Данный курс позволит Вам ознакомить�
 programming_language: r
 from: 'r-base-prod:v1.0.0'
 
-#time_needed: 4 часа
+time_needed: 4 hours
 
 difficulty_level: 1
 
