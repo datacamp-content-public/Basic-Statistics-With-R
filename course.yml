@@ -3,9 +3,9 @@ description: Данный курс позволит Вам ознакомить�
 programming_language: r
 from: 'r-base-prod:v1.0.0'
 
-time_needed: 4 часа
+#time_needed: 4 часа
 
 difficulty_level: 1
 
-devtools::install_version("ggplot2", "2.2.1")
+#devtools::install_version("ggplot2", "2.2.1")
 
